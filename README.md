@@ -7,7 +7,7 @@
 
 ## Project Intent 
 
-This repository is a personal practice project created to learn, experiment with, and document retail analytics techniques focused on the Diwali festival. The emphasis is on clarity, explanation, and demonstrating the learning process — not on delivering production-grade engineering.
+This repository is a personal practice project created to learn, experiment with, and document retail analytics techniques focused on the Diwali festival. The emphasis is on clarity, explanation, and demonstrating the learning process, not on delivering production-grade engineering.
 
 
 ## Project Overview
