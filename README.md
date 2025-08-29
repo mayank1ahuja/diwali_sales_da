@@ -2,7 +2,7 @@
 <h1 align="center">DIWALI SALES ANALYTICS</h1 align="center">
 
 <h3 align="center">A personal practice project focused on 'learning-by-doing' using retail data.</h3 align="center">
-
+‹code style="color : greenyellow">A personal practice project focused on 'learning-by-doing' using retail data.</code>
 
 
 
