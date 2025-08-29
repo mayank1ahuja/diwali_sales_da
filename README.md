@@ -3,7 +3,8 @@
 
 <h3 align="center">A personal practice project focused on 'learning-by-doing' using retail data.</h3 align="center">
 
----
+
+
 
 ## Project Intent 
 
