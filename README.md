@@ -1,6 +1,7 @@
-# DIWALI SALES ANALYTICS
+![Project Header](https://github.com/mayank1ahuja/diwali_sales_da/blob/c16070f63aa5c5cb88713f591d39311cff3c952c/Project%20Header.png)
+<h1 align="center">DIWALI SALES ANALYTICS</h1 align="center">
 
-### A personal practice project focused on learning-by-doing with retail data.
+<h3 align="center">A personal practice project focused on learning-by-doing with retail data.</h3 align="center">
 
 ---
 
